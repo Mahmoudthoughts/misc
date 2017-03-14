@@ -9,3 +9,7 @@
     --no_w2k8r2ia64
     --no_w2k12x64
     --no_w2k12r2x64
+    --no_w7x64
+    --no_w7
+    --no_w81x64
+    --no_w10x64
